@@ -1,0 +1,14 @@
+body{
+    background-color: deepskyblue;
+    text-align:initial;
+}
+h1{
+    color: darkred;
+}
+h3{
+    color: deeppink;
+}
+image{
+    height:100px;
+    width:100px;
+}
