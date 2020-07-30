@@ -6,10 +6,6 @@ Rodney
 This project is created in order to test my basic understanding of css and html
 ##project setup instruction 
 This project is set up with basic understandin of htmll and css
-##live links
-*https://github.com/rodneyspark/my-pet.git
-*https://github.com/rodneyspark/calculator.git
-*https://github.com/rodneyspark/starwars
 
  ## Technologies used
  * HTML
